@@ -1,0 +1,15 @@
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\bin\Debug\net6.0\ProgramozasiAlapok.exe
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\bin\Debug\net6.0\ProgramozasiAlapok.deps.json
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\bin\Debug\net6.0\ProgramozasiAlapok.runtimeconfig.json
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\bin\Debug\net6.0\ProgramozasiAlapok.dll
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\bin\Debug\net6.0\ProgramozasiAlapok.pdb
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\obj\Debug\net6.0\ProgramozasiAlapok.csproj.AssemblyReference.cache
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\obj\Debug\net6.0\ProgramozasiAlapok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\obj\Debug\net6.0\ProgramozasiAlapok.AssemblyInfoInputs.cache
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\obj\Debug\net6.0\ProgramozasiAlapok.AssemblyInfo.cs
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\obj\Debug\net6.0\ProgramozasiAlapok.csproj.CoreCompileInputs.cache
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\obj\Debug\net6.0\ProgramozasiAlapok.dll
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\obj\Debug\net6.0\refint\ProgramozasiAlapok.dll
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\obj\Debug\net6.0\ProgramozasiAlapok.pdb
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\obj\Debug\net6.0\ProgramozasiAlapok.genruntimeconfig.cache
+C:\Users\3dstu\Desktop\Projektek\DarocziGabor_Programozasi_alapok\ProgramozasiAlapok\ProgramozasiAlapok\obj\Debug\net6.0\ref\ProgramozasiAlapok.dll
