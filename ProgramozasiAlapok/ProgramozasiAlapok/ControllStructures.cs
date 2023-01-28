@@ -166,7 +166,7 @@ for (int a= 1; a<=10; a++)
 //---------METÓDUSOK----------------
 
 
-
+/*
 double f1 = 12.5f;       //ez is floating point szám
 double f2 = 3f;
 
@@ -174,7 +174,7 @@ double power1 = Math.Pow(f1, f2);       //hatványozás
 double power2 = Math.Pow(45, 11.5);
 
 double f3 = Math.Abs(f1);
-
+*/
 
 
 
